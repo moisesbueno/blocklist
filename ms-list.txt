@@ -1,0 +1,3 @@
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 telemetry.visualstudio.microsoft.com
